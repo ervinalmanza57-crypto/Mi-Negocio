@@ -1,0 +1,12 @@
+GESTIÓN BELCORP — cómo instalarla en tu teléfono
+
+1) Sube esta carpeta a un hosting gratuito con HTTPS (necesario para instalarla):
+   - Netlify Drop (app.netlify.com/drop): arrastra la carpeta y te da un enlace.
+   - o GitHub Pages / Cloudflare Pages.
+2) Abre el enlace en Chrome del teléfono → menú ⋮ → "Instalar app" (o "Agregar a pantalla de inicio").
+3) Funciona sin internet después de la primera carga. Los datos quedan en el teléfono.
+
+IMPORTANTE
+- Haz respaldos seguido: Configuración → Exportar respaldo (guarda el archivo en Drive o WhatsApp).
+- Si cambias de teléfono o navegador, restaura ese respaldo en Configuración.
+- Los datos de la vista previa de Claude NO pasan solos a la versión instalada: expórtalos ahí y restáuralos aquí.
